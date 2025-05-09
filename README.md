@@ -157,6 +157,7 @@ curl -X POST http://localhost:8080/api/transfer \
 
 ---
 
-## 🧑‍💻 Автор
+## 👤 Автор
 
-Alexiisssss
+- **Alexiisssss**  
+  [![GitHub: Alexiisssss](https://img.shields.io/badge/GitHub-Alexiisssss-181717?style=flat-square&logo=github)](https://github.com/Alexiisssss)
